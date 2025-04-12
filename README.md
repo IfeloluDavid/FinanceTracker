@@ -1,7 +1,8 @@
-# FinanceTracker
 # 💰 Finance Tracker App (Built with AWS)
 
 This is a **simple finance tracking web app** built entirely on AWS using a **CI/CD pipeline with AWS Amplify**, **API Gateway**, **DynamoDB**, and **Lambda**.
+
+![Finance Tracker (1)](https://github.com/user-attachments/assets/a70cef42-4dfd-4c85-89e1-3ca89acb49e4)
 
 ## 📊 Features
 - Users can **add expenses** and **update budgets**
